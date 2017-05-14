@@ -1,0 +1,8 @@
+以下为返回json数据的识别信息：
+type
+	login:		用户登录数据
+	message:	用户发送聊天信息
+	login_info	登录成功，返回个人信息
+	all_friends	返回我的好友信息
+	list		返回所有在线用户信息
+	notice_login发送好友上线通知
